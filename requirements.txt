@@ -1,4 +1,5 @@
-pyTelegramBotAPI==4.8.0
-random2==1.0.1
+python -m pip install --upgrade pip
+pyTelegramBotAPI
+random2
 os-sys=2.1.4
 pickle5==0.0.12
