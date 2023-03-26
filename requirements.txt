@@ -1,4 +1,3 @@
-random2
 os-sys=2.1.4
 pickle5==0.0.12
 pyTelegramBotAPI
