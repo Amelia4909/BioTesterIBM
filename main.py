@@ -715,7 +715,7 @@ def get_text_messages(message):
                 message.chat.id, text='Повідомлення відправленно.')
             bot.send_message('-1001880937482', 'Адміни,вам повідомлення від ' +
                              '@{username}\n'.format(username=message.from_user.username))
-            chat_id = '-1001531702810'
+            chat_id = '-1001880937482'
     # Проверяем, что сообщение содержит текст
             if message.text:
                 # Удаляем команду из сообщения
